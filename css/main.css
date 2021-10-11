@@ -1,3 +1,6 @@
 h2{
     text-align: center;
 }
+.border{
+    border-top: 2px solid #ddd;
+}
