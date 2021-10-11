@@ -1,8 +1,23 @@
-h3{
+a.one:link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.one:visited{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.one:hover{
+    color: #ff4081;
+    text-decoration: none;
+}
+.title{
     text-align: center;
     position: relative;
-    top: 4px;
+    top: 10px;
+    font-size: 25px;
 }
 .border{
     border-top: 1px solid #ddd;
+    position: relative;
+    top: 27px;
 }
